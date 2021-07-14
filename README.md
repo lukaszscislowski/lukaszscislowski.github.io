@@ -23,5 +23,7 @@ I am a begginer web developer from krakow, poland
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/-JS-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
 
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
 <br>
 <br>
